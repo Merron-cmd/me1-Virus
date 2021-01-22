@@ -2,6 +2,8 @@
 
 ## 不要随意运行!
 
+[严重版](https://github.com/Merron-cmd/me1-virus-Serious)
+
 **这是一个病毒!**
 
 ### 危害
